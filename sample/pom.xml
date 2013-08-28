@@ -28,7 +28,7 @@
 
 		<dependency>
 			<groupId>com.viewpagerindicator</groupId>
-			<artifactId>library</artifactId>
+			<artifactId>pager</artifactId>
 			<version>2.4.2</version>
 			<type>apklib</type>
 		</dependency>
